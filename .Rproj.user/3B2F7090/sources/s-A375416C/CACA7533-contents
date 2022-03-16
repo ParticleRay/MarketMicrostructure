@@ -1,4 +1,4 @@
-baseURL: https://marketmicrostructure.netlify.app
+baseURL: https://marketmicrostructure.netlify.app/
 title: Market Microstructure
 theme: andromeda-light
 paginate: '6'
