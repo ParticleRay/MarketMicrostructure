@@ -271,28 +271,34 @@ In April 2021, research has found that there has been more investments to equity
 <script src="/andromeda-light/examplesite/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
-<div id="investors" class="section level1">
-<h1>Investors</h1>
+<div id="investors" class="section level2">
+<h2>Investors</h2>
 <p>In April 2021, research has found that there has been more investments to equity funds over the past 5 months than the previous 12 years combined. With continuous advancements in online trading platforms and improved access to information, retail investors, who are defined as non-professional individuals that choose to invest directly in the equities market rather than depositing money in financial institutions bank or mutual funds, account for almost as much volume on the US stock market as mutual and hedge funds combined.</p>
 <div class="figure">
-<img src="graph1.jpg" alt="" />
-<p class="caption">“Investment to Equity Funds”</p>
+<img src="images/graph1.jpg" title="Broker Segmentation" alt="" />
+<p class="caption">Investment into Equity Funds</p>
 </div>
 <blockquote>
 <p>In Australia, the number of retail investors increased by 100% since May 2020 with an estimated 1.43 million individuals placing one or more trades during this period.</p>
 </blockquote>
 <p>Furthermore, a low interest rate environment has been a key catalyst for investors entering the market in recent years. With an aim to stimulate the and support the economy, the Reserve Bank of Australia (RBA) has reduced the cash rate to a historic low of 0.1% in November 2020. This is contrasted to the average stock market return of ~10% pa over the past century.</p>
-<p><img src="images/brokerseg.jpg" title="Broker Segmentation" /></p>
+<div class="figure">
+<img src="images/brokerseg.jpg" title="Broker Segmentation" alt="" />
+<p class="caption">Broker Segmentation</p>
 </div>
-<div id="brokers" class="section level1">
-<h1>Brokers</h1>
+</div>
+<div id="brokers" class="section level2">
+<h2>Brokers</h2>
 <p>Brokers are also a fundamental part of the equities market - acting as an agent on behalf of their customers by representing their orders to the market. In return, brokers receive a fee for their services - traditionally through a commission on the trade however, exchange maker/taker pricing and payment for retail order flow have been more prominent throughout the past decade.</p>
 <p>There are 2 main types of brokers:</p>
 <ol style="list-style-type: decimal">
 <li>Prime Brokers: Provides transaction-related services for larger customers e.g. corporations, mutual funds</li>
 <li>Retail Brokers: Individual investors go to discount brokers who only provide trading services or full-service brokers that provide more comprehensive services including advisory and portfolio management. </li>
 </ol>
-<p><img src="images/broker.png" title="Types of Brokers" /></p>
+<div class="figure">
+<img src="images/broker.png" title="Broker Segmentation" alt="" />
+<p class="caption">Types of Brokers</p>
+</div>
 </div>
 
         </div>
@@ -346,7 +352,7 @@ In April 2021, research has found that there has been more investments to equity
       
       <div class="col-lg-5">
         <article class="card blog-card">
-  <a href="/andromeda-light/examplesite/blog/post-2/" title="Why you should launch your product in phases not after done">
+  <a href="/andromeda-light/examplesite/blog/post-2/" title="Order Driven Markets">
     
     
     
@@ -358,8 +364,8 @@ In April 2021, research has found that there has been more investments to equity
     
   </a>
   <div class="card-body">
-    <h3 class="card-title"><a href="/andromeda-light/examplesite/blog/post-2/" title="Why you should launch your product in phases not after done">Why you should launch your product in phases not after done</a></h3>
-    <p>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl …</p>
+    <h3 class="card-title"><a href="/andromeda-light/examplesite/blog/post-2/" title="Order Driven Markets">Order Driven Markets</a></h3>
+    <p>One of the main types of markets is an Order Driven Market. This can actually have many names including: Auction Market …</p>
   </div>
   <div class="card-footer bg-transparent border-top-0">
     <div class="card-author">
@@ -376,9 +382,9 @@ In April 2021, research has found that there has been more investments to equity
         
         <div class="user-info">
           
-          <p class="font-weight-500 mb-0 h5">Derick Barker</p>
+          <p class="font-weight-500 mb-0 h5">Vicky Wu</p>
           
-          <span>Jul 13, 2021 - 2 Min read</span>
+          <span>Jul 13, 2021 - 3 Min read</span>
         </div>
       </div>
     </div>
