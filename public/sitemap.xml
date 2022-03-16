@@ -35,12 +35,29 @@
     <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/blog/post-8/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/about/</loc>
-  </url><url>
     <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/contact/</loc>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/blog/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/about/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/andromeda-light/examplesite/contact/</loc>
   </url>
 </urlset>

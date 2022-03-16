@@ -78,5 +78,14 @@
       <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
     </item>
     
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://demo.gethugothemes.com/andromeda-light/examplesite/blog/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda-light/examplesite/blog/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
+    </item>
+    
   </channel>
 </rss>

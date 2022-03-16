@@ -4,6 +4,16 @@
     <title>Categories on Andromeda-light - Software and SAAS Landing Hugo Theme</title>
     <link>https://demo.gethugothemes.com/andromeda-light/examplesite/categories/</link>
     <description>Recent content in Categories on Andromeda-light - Software and SAAS Landing Hugo Theme</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://demo.gethugothemes.com/andromeda-light/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://demo.gethugothemes.com/andromeda-light/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://demo.gethugothemes.com/andromeda-light/examplesite/categories/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda-light/examplesite/categories/r/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
