@@ -56,6 +56,8 @@ intro_video:
   title: Introduction to the Stock Market.
   video_thumbnail: images/stockmarket.jpg
   video_url: https://www.youtube.com/embed/p7HKvqRI_Bo
+  button: "Visit Our Blog"
+  button_link: "https://marketmicrostructure.netlify.app/blog/"
 testimonials:
   description: Check out this short video which explains the stock market in a great way! To read more about Market Microstructure, check out our blog! 
   enable: true
