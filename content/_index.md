@@ -1,7 +1,7 @@
 ---
 banner:
   image: images/macro.png
-  title: Introduction to Market Microstructure
+  title: Introduction to Market Fundamentals
 brands_carousel:
   brand_images:
   - images/brands/01-colored.png
