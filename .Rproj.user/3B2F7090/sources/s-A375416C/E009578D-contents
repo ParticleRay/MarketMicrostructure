@@ -1,10 +1,10 @@
 ---
 author_info:
-  image: images/author/derick.jpg
+  image: images/author/vicky.jpg
   name: Vicky Wu
 date: "2021-07-13"
 draft: false
-image: images/blog/02.jpg
+image: images/blog/stock.jpg
 title: Order Driven Markets
 ---
 

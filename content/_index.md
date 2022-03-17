@@ -1,6 +1,6 @@
 ---
 banner:
-  image: images/banner-app.png
+  image: images/macro.png
   title: Introduction to Market Microstructure
 brands_carousel:
   brand_images:
@@ -37,27 +37,27 @@ features:
 how_it_works:
   block:
   - description: The main function of an exchange is to provide a platform for investors to trade shares of listed companies in a standardised procedure and with a certain amount of oversight from regulatory bodies.
-    image: images/features-01.png
+    image: images/stocks.png
     subtitle: Trading Services & Facilities
     title: Why are exchanges so essential?
   - description: A company may choose to list on an exchange to access a wider pool of capital and fund future growth. Companies usually list on one exchange however, in cases where cross listing occurs, the company designates one as the primary listing exchange.
-    image: images/features-02.png
+    image: images/banks.png
     subtitle: Listings
     title: Importance for corporations
   - description: Market data including reports of trades, quote changes, historical trends, bid/offer sizes etc, are generated from trades in the exchange. Investors and financial institutions may buy such market data to make more informed trades.
-    image: images/features-02.png
+    image: images/thestockmarket.png
     subtitle: Market Data
     title: How do investors benefit from the equity market?
   enable: true
 intro_video:
-  description: Check out this short video which explains the stock market in a great way. To read more about Market Microstructure, checkout our <a href="https://marketmicrostructure.netlify.app/blog/">blog</a>!
+  description: Check out this short video which explains the stock market in a great way. To read more about Market Microstructure, check out our <a href="https://marketmicrostructure.netlify.app/blog/">blog</a>!
   enable: true
   subtitle: Short Intro Video
   title: Introduction to the Stock Market.
-  video_thumbnail: images/video-popup.jpg
+  video_thumbnail: images/stockmarket.jpg
   video_url: https://www.youtube.com/embed/p7HKvqRI_Bo
 testimonials:
-  description: Check out this short video which explains the stock market in a great way! To read more about Market Microstructure, checkout our blog! 
+  description: Check out this short video which explains the stock market in a great way! To read more about Market Microstructure, check out our blog! 
   enable: true
   image_left: images/testimonials-01.png
   image_right: images/testimonials-02.png
