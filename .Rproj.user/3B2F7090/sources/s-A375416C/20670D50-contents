@@ -1,6 +1,6 @@
 ---
 author_info:
-  image: images/author/derick.jpg
+  image: images/author/anush.jpg
   name: Anush Sharma
 date: "2021-07-10"
 draft: false
